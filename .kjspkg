@@ -1,0 +1,8 @@
+{
+	"author": "Quentin765",
+	"description": "Adds compasses to the corner of the screen that show climate info to help find biomes in a less cheaty way then using a seed map. (Not tested with 1.16)",
+	"versions": [6,8],
+	"modloaders": ["forge","fabric"],
+	"dependencies": ["mod:supplementaries"],
+	"incompatibilities": []
+}
